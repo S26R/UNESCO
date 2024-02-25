@@ -1,0 +1,25 @@
+1.** Keep the files in the same directory without changing any of the location of the files and folders kept inside the   File.
+
+2. For using this software you need to install the FONTS. The process of installing is as follows:-
+   i. Open the App Requirement File and then open the Fonts file.
+  ii.Select all the fonts using Ctrl+A and then using your mouse's or touchpad's(laptop) right button click it you will      find install option.
+ iii. Click on the install option and finally all the fonts will be downloaded in your system.
+
+3. You need to install in your sysytem the following modules before you run the python file:-
+a. **Install PIP 22.0 
+b. PIllOW 9.0.0
+c. future
+d. tkinter 
+e. time
+
+4.a. For login into the software you required a login ID and Password. You cannot create your own ID and Password. So using      the given  ID and Password you can login into the software:-
+   
+       LOGIN ID       PASSWORD
+   i. kushal.sir         1
+  ii. akashdeep.04       4
+ iii. samrajnee.29       29
+  iv. shounak.30         30
+   v. suhina.39          39
+  vi. swastika.40        40
+
+b. You can also directly login into the software using the member button in which you will be finding the members list    including Kushal sirs and also if you click on any of the names you will be directly taken to the software main area.  
